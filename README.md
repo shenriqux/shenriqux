@@ -1,16 +1,20 @@
-### Hi there 👋
+### Publications 📝
 
-<!--
-**shenriqux/shenriqux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Investigating how speech and animation realism influence the perceived personality of virtual characters and agents](https://github.com/shenriqux/shenriqux/blob/main/Publication%20-%20IEEE%20VR%202022.pdf) <br/> *Sean Thomas, Ylva Ferstl, Rachel McDonnell, Cathy Ennis* <br/>
+- [Human or Robot? Investigating voice, appearance and gesture motion realism of conversational social agents](https://github.com/shenriqux/shenriqux/blob/main/Publication%20-%20IVA%202021.pdf) <br/> *Ylva Ferstl, Sean Thomas, Cédric Guiard, Cathy Ennis, Rachel McDonnell* <br/>
 
-Here are some ideas to get you started:
+### Articles 📰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [What the flip is the Metaverse?](https://www.rte.ie/brainstorm/2021/1109/1258766-metaverse-virtual-reality-facebook-mark-zuckerberg/) <br/>
+*via [RTÉ Brainstorm](https://www.rte.ie/brainstorm/)*
+
+### Education 🎓
+
+- **MSc**, Computer Science <br/>
+*[University College Dublin](https://www.ucd.ie/)* 
+- **BSc**, Multimedia Systems/Web Engineering <br/>
+*[IADT Dún Laoghaire](https://iadt.ie/)*
+
+### Links 🔗
+
+- [IADT Profile](https://iadt.ie/about/staff/sean-henriques/)
