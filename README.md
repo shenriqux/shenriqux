@@ -1,7 +1,7 @@
 ### Publications 📝
 
-- [Investigating how speech and animation realism influence the perceived personality of virtual characters and agents](https://github.com/shenriqux/shenriqux/blob/main/Publication%20-%20IEEE%20VR%202022.pdf) <br/> *Sean Thomas, Ylva Ferstl, Rachel McDonnell, Cathy Ennis* <br/>
-- [Human or Robot? Investigating voice, appearance and gesture motion realism of conversational social agents](https://github.com/shenriqux/shenriqux/blob/main/Publication%20-%20IVA%202021.pdf) <br/> *Ylva Ferstl, Sean Thomas, Cédric Guiard, Cathy Ennis, Rachel McDonnell* <br/>
+- [Investigating how speech and animation realism influence the perceived personality of virtual characters and agents](https://github.com/shenriqux/shenriqux/blob/main/Publication%20-%20IEEE%20VR%202022.pdf) <br/> *Sean Thomas (Henriques), Ylva Ferstl, Rachel McDonnell, Cathy Ennis* <br/>
+- [Human or Robot? Investigating voice, appearance and gesture motion realism of conversational social agents](https://github.com/shenriqux/shenriqux/blob/main/Publication%20-%20IVA%202021.pdf) <br/> *Ylva Ferstl, Sean Thomas (Henriques), Cédric Guiard, Cathy Ennis, Rachel McDonnell* <br/>
 
 ### Articles 📰
 
